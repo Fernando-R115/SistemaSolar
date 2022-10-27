@@ -33,7 +33,7 @@ public class Main extends SimpleApplication {
     public static void main(String[] args) {
         AppSettings settings = new AppSettings(true);
         settings.setTitle("Sistema Solar");
-        settings.setSettingsDialogImage("Interface/c.jpg");
+        settings.setSettingsDialogImage("Textures/sistema.jpg");
         settings.setResolution(1920, 1080);
         settings.setVSync(true);
         settings.setFrameRate(60);
